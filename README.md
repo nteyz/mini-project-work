@@ -28,6 +28,8 @@ Secondary, according to the lost of security pattern or password and keys of sta
 
 
 # 3.BLOCK DIAGRAM AND IT'S DESCRIPTION
+![block](https://user-images.githubusercontent.com/104722226/166148745-600b7109-28b3-422a-ad63-c2989752b466.PNG)
+
  
 
 
@@ -42,11 +44,17 @@ Arduino is the main component of this system it is responsible for control of th
 
   
 # 4.CIRCUIT DIAGRAM
+![image](https://user-images.githubusercontent.com/104722226/166148762-f939cba4-98bb-4447-99cd-8e32d0602529.png)
+
  
 
 Fingerprint module’s Rx and Tx directly connected at Serial pin D2 and D3 (Software Serial) of Arduino. 5v supply is used for powering finger print module  and relay that are taken from Arduino board. Battery of 12v is used to supply the motor as our output (actuator).
 
 # COMPILED SOURCE CODES IN ARDUINO IDE
+![image](https://user-images.githubusercontent.com/104722226/166148814-a8936930-acd4-4332-8495-e29ac54019e3.png)
+![image](https://user-images.githubusercontent.com/104722226/166148829-112e9ba8-c95c-4cb0-9012-6c8fb2a4d3aa.png)
+![image](https://user-images.githubusercontent.com/104722226/166148857-34c8546f-a762-4881-9ad2-9e8724e50802.png)
+![image](https://user-images.githubusercontent.com/104722226/166148871-2df5f464-0e6b-4bc3-9f65-0a3d7d27e591.png)
 
  
  
